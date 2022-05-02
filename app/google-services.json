@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870959696281",
+    "project_id": "courseproject-71f99",
+    "storage_bucket": "courseproject-71f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870959696281:android:95d69a26996c9efc33eb08",
+        "android_client_info": {
+          "package_name": "com.example.courseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870959696281-jn5ol2q26671kaslc0j1gpfaujmogm5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVzb_t8jaUnkBMofk9YgjS9Vx_rZZ2VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870959696281-jn5ol2q26671kaslc0j1gpfaujmogm5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
