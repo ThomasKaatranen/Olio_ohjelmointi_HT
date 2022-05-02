@@ -42,7 +42,6 @@ public class UserActionHandler {
     public void writeUserActionToFile(Context context, ArrayList<User> ratedMovieToFile) {
         getContext = context;
         try {
-            System.out.println("WTFFFFFFFFF?");
             File file = new File(getContext.getFilesDir(), "UserAction.json");
             FileWriter fileWriter = new FileWriter(file, false);
             new Gson().toJson(ratedMovieToFile, fileWriter);
